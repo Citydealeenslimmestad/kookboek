@@ -12,5 +12,6 @@
   * [Datamodellen](stap-4-beoordeel-de-data/datamodellen.md)
   * [Rating van datasets](stap-4-beoordeel-de-data/rating-van-datasets.md)
 * [Stap 5: Prepareer de data](stap-5-prepareer-de-data.md)
-* [Stap 6: Ontsluit de data](stap-6-ontsluit-de-data.md)
+* [Stap 6: Ontsluit de data](stap-6-ontsluit-de-data/README.md)
+  * [Open Data](stap-6-ontsluit-de-data/open-data.md)
 
