@@ -21,4 +21,7 @@
 * [Stap 10: Visualiseer de data](stap-10-visualiseer-de-data.md)
 * [Stap 11: Evalueer het proces](stap-11-evalueer-het-proces.md)
 * [Bibliotheek](bibliotheek.md)
+* [Voorbeelden](voorbeelden/README.md)
+  * [Data BGT](voorbeelden/data-bgt.md)
+  * [Data KNMI](voorbeelden/data-knmi.md)
 
