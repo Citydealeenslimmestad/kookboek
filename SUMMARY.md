@@ -19,4 +19,6 @@
   * [Data management](stap-8-documenteer-de-data/data-management.md)
 * [Stap 9: Monitor de indicatoren](stap-9-monitor-de-indicatoren.md)
 * [Stap 10: Visualiseer de data](stap-10-visualiseer-de-data.md)
+* [Stap 11: Evalueer het proces](stap-11-evalueer-het-proces.md)
+* [Bibliotheek](bibliotheek.md)
 
