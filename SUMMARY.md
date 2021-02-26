@@ -22,6 +22,7 @@
 * [Stap 11: Evalueer het proces](stap-11-evalueer-het-proces.md)
 * [Bibliotheek](bibliotheek.md)
 * [Voorbeelden](voorbeelden/README.md)
+  * [Snuffelfiets](voorbeelden/snuffelfiets.md)
   * [Data BGT](voorbeelden/data-bgt.md)
   * [Data KNMI](voorbeelden/data-knmi.md)
 
