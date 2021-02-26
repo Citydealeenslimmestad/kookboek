@@ -11,4 +11,5 @@
   * [Metadata](stap-4-beoordeel-de-data/metadata.md)
   * [Datamodellen](stap-4-beoordeel-de-data/datamodellen.md)
   * [Rating van datasets](stap-4-beoordeel-de-data/rating-van-datasets.md)
+* [Stap 5: Prepareer de data](stap-5-prepareer-de-data.md)
 
