@@ -27,4 +27,5 @@
   * [Snuffelfiets](voorbeelden/snuffelfiets.md)
   * [Data BGT](voorbeelden/data-bgt.md)
   * [Data KNMI](voorbeelden/data-knmi.md)
+* [Tools](tools.md)
 
