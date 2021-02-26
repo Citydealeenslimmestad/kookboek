@@ -14,4 +14,5 @@
 * [Stap 5: Prepareer de data](stap-5-prepareer-de-data.md)
 * [Stap 6: Ontsluit de data](stap-6-ontsluit-de-data/README.md)
   * [Open Data](stap-6-ontsluit-de-data/open-data.md)
+* [Stap 7: Presenteer de data](stap-7-presenteer-de-data.md)
 
