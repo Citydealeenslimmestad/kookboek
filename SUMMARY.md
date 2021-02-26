@@ -9,4 +9,5 @@
 * [Stap 3: Verzamel de data](stap-3-verzamel-de-data.md)
 * [Stap 4: Beoordeel de data](stap-4-beoordeel-de-data/README.md)
   * [Metadata](stap-4-beoordeel-de-data/metadata.md)
+  * [Datamodellen](stap-4-beoordeel-de-data/datamodellen.md)
 
