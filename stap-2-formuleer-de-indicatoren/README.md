@@ -8,5 +8,7 @@ Vertaal de sleutelelementen in 1 of meerdere meetbare indicatoren. Gebruik kriti
 * Aantal meldingen van overstroomde kelder afname 20% in dezelfde periode van 10 jaar.
 * Aantal schadegevallen verzekeraars afname van 10% in dezelfde periode van 10 jaar.
 
-[Meer over KPI’s]()
+[Meer over KPI’s](key-prestatie-indicatoren-kpi.md)
+
+
 
