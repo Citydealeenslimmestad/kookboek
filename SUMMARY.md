@@ -7,4 +7,5 @@
 * [Stap 2: Formuleer de indicatoren](stap-2-formuleer-de-indicatoren/README.md)
   * [Key Prestatie Indicatoren \(KPI\)](stap-2-formuleer-de-indicatoren/key-prestatie-indicatoren-kpi.md)
 * [Stap 3: Verzamel de data](stap-3-verzamel-de-data.md)
+* [Stap 4: Beoordeel de data](stap-4-beoordeel-de-data.md)
 
