@@ -1,0 +1,20 @@
+# Stap 6: Ontsluit de data
+
+## Stap 6: Publiceer de data
+
+Om data te kunnen gebruiken, moet het gepubliceerd \(en vindbaar\) worden. Dat klinkt logisch en toch moeten er de nodige afwegingen gemaakt worden. Eén daarvan gaat over de voorwaarden waaronder de data gepubliceerd wordt. Als data vrijelijk voor iedereen beschikbaar is, zonder beperkingen, praten we over [open data](). Maar data kan ook alleen met bepaalde afdelingen of organisaties gedeeld worden. Veel informatie over de publicatie van data is the vinden op de site van "[The Open Data Institute](https://theodi.org/)". Er zijn veel publicaties te vinden die ingaan op behoeften van verschillende stakeholders en verwijzingen naar nuttige tools.
+
+Een ander aspect van data-publicatie betreft de wijze van ontsluiting. De meest gebruikte manier is het aanbieden van een downloadbaar bestand, bijvoorbeeld een CSV- of GeoJSON-file. Het nadeel is dat de gebruiker steeds opnieuw het bestand moet downloaden als er een nieuwe versie beschikbaar komt. Veel toepassingen halen eenmalig de data op, slaan die zelf op en gebruiken die om een dashboard of kaart te maken. Het is in die situatie lastig te beoordelen of de meest actuele versie van de data worden gebruikt. En voor de aanbieder/eigenaar van de data is er geen zicht op de toepassingen die gebruik maken van een dataset.
+
+## API´s en webservices
+
+Een andere manier is het bieden van een API \(Application Programming Interface\) of webservices . Dit is als het ware een online stopcontact om permanent data op te vragen. Het grote voordeel is dat het gebruik van de data beter te monitoren is, dat de gebruiker altijd beschikt over de meest recente data en die data niet zelf hoeft op te slaan. Voor beleidsmonitoring zijn API’s of webservices daarom meer geschikt. Zo wordt in het Digitaal Stelsel Omgevingswet sterk ingezet op de ontwikkeling van open API´s \(conform de OpenAPI-specificatie\) en komt er een ontwikkelaarsportaal waar alle beschikbare API’s gevonden kunnen worden \(inclusief documentatie\).
+
+> In de publicatie "Harmonised Smart City APIs - A Cook Book for Cities \([zie bibliotheek]()\) worden voordelen van standaard API´s goed beschreven. Daarin wordt ook een stappenplan beschreven hoe je kunt starten met het gebruik van API´s en hoe je dit borgt in de organisatie.
+
+Naast een API zijn er nog enkele manieren om data te ontsluiten. Een aantal voorbeelden van \(standaard\) services zijn: 1. Geo-services, zoals vastgesteld door het Open Geo Consortium \(OGC\)  2. NGSI API vann FIWARE
+
+Voor geo-informatie \(en direct van belang in het kader van de Omgevingswet\), is de INSPIRE-plicht. INSPIRE is een Europese richtlijn voor het beschikbaar stellen van geo-informatie. Dat gebeurt nu op verschillende niveaus, onder meer via het Nationaal Geo Register. Een deel van de gegevens en informatieproducten die in de context van de Omgevingswet beschikbaar moeten komen, vallen onder INSPIRE en zullen conform die standaarden beschikbaar moeten worden gesteld. Een reden te meer om goed na te denken over een catalogus om de \(interne\) informatie te registeren en beheren.
+
+Het doel van data ontsluiting is o.a. dat de gegevens gebruikt worden voor nieuwe toepassingen. Zoals een klimaatatlas, 3D-model of app. Door de ontsluiting van data te scheiden van de toepassingen, wordt ook aangesloten bij de visie die VNG Realisatie heeft geformuleerd onder de naam "Common Ground" \([https://vng.nl/samen-organiseren/common-ground](https://vng.nl/samen-organiseren/common-ground)\).
+
