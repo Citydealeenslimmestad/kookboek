@@ -15,5 +15,6 @@
 * [Stap 6: Ontsluit de data](stap-6-ontsluit-de-data/README.md)
   * [Open Data](stap-6-ontsluit-de-data/open-data.md)
 * [Stap 7: Presenteer de data](stap-7-presenteer-de-data.md)
-* [Stap 8: Documenteer de data](stap-8-documenteer-de-data.md)
+* [Stap 8: Documenteer de data](stap-8-documenteer-de-data/README.md)
+  * [Data management](stap-8-documenteer-de-data/data-management.md)
 
